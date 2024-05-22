@@ -23,4 +23,4 @@
 # m h  dom mon dow   command
 
 
-49 11 * * * /home/abhishek/data/backups/ttp-bk.sh
+49 11 * * * /home/abhishek/data/backups/backup_and_sync.sh
