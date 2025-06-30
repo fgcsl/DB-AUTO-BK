@@ -1,7 +1,7 @@
 
 # 🔄 DB-AUTO-BK: Automated Website & MySQL Backup Tool
 
-**DB-AUTO-BK** is a Bash-based utility that automates the process of backing up website files and MySQL databases from a remote server to your local machine. It is ideal for developers, sysadmins, or researchers who manage websites and need regular, reliable backups.
+**DB-AUTO-BK** is a Bash-based utility that automates the process of backing up files and MySQL databases from a remote server to your local machine. By customizing the script, users can back up their own websites, server data, or databases. It's ideal for developers, sysadmins, researchers, or anyone who needs scheduled, secure, and efficient backups.
 
 ---
 
