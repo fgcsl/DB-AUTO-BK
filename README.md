@@ -25,12 +25,12 @@
 ---
 
 ## 📂 Example Backup Structure
-
+```bash
 /your/local/backup/path/
 └── 2025-06-30/
 ├── website/ # Website files
 └── db_backup/ # SQL database dumps
-
+```
 
 ---
 
